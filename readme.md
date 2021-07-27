@@ -11,7 +11,7 @@ If we can do this we might then be able to extend this to n-dimensions (n means 
 
 ## Related Work
 
-This has already been done for a neural network with 2 hidden layers and can be found here .
+This has already been done for a neural network with 2 hidden layers and can be found [here](http://neuralnetworksanddeeplearning.com/chap4.html) .
 In order to be able to follow this writeup, it is beneficial if you are already familiar with the visual proof for a neural network with 2 hidden layers.
 What we are trying to do now is to construct a visual proof when we can only use 1 hidden layer.
 I couldn’t find a visual proof for this, however there exists a mathematical proof which uses functional analysis in order to proof this. 
